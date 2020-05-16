@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <price>12</price>
+        <title>The shining</title>
+        <pages>450</pages>
+        <author>S.King</author>
+        <owner>Book city</owner>
+    </book>
+    <book>
+        <price>10</price>
+        <title>Hunger Games</title>
+        <pages>350</pages>
+        <author>S.Collins</author>
+        <owner>Book city</owner>
+    </book>
+</books>

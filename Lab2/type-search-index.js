@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"by.belstu.it.smelova.basejava","l":"JavaTest"},{"p":"com.company","l":"Main"},{"p":"by.belstu.it.smelova","l":"TextFunction"},{"p":"by.belstu.it.smelova.basejava","l":"WrapperString"}]

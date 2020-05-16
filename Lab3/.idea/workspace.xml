@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa053727-1cb2-44a2-b746-63727f0e7893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzPbfJ35vNJ5HWjs7gEbwF9QkK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3137931" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.smelova.bookshop" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SuiteTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="by.smelova.Main" />
+      <module name="Lab3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookSailerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.smelova.bookshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.smelova.bookshop" />
+      <option name="MAIN_CLASS_NAME" value="by.smelova.bookshop.BookSailerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.smelova.bookshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.smelova.bookshop" />
+      <option name="MAIN_CLASS_NAME" value="by.smelova.bookshop.BookshopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.smelova.bookshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.smelova.bookshop" />
+      <option name="MAIN_CLASS_NAME" value="by.smelova.bookshop.ParameterizedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.smelova.bookshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.smelova.bookshop" />
+      <option name="MAIN_CLASS_NAME" value="by.smelova.bookshop.SuiteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SuiteTest" />
+        <item itemvalue="JUnit.ParameterizedTest" />
+        <item itemvalue="JUnit.BookshopTest" />
+        <item itemvalue="JUnit.BookSailerTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa053727-1cb2-44a2-b746-63727f0e7893" name="Default Changelist" comment="" />
+      <created>1583942522493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583942522493</updated>
+      <workItem from="1583942531589" duration="600000" />
+      <workItem from="1584428111536" duration="4059000" />
+      <workItem from="1584478042486" duration="5754000" />
+      <workItem from="1584514576523" duration="9741000" />
+      <workItem from="1584528644376" duration="2061000" />
+      <workItem from="1585684808505" duration="7147000" />
+      <workItem from="1585738762679" duration="4824000" />
+      <workItem from="1586096103429" duration="321000" />
+      <workItem from="1586096794039" duration="13364000" />
+      <workItem from="1586343255994" duration="1210000" />
+      <workItem from="1588079709974" duration="13093000" />
+      <workItem from="1588149913780" duration="11568000" />
+      <workItem from="1588760069556" duration="3343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586102278967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586102278967" />
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1586118284136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586118284136" />
+    <state x="561" y="190" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588096175337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="190" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588096175337" />
+    <state x="499" y="299" key="#com.intellij.ws.xml.jaxb.GenerateJAXBSchemasFromJavaDialog" timestamp="1585689099803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="299" key="#com.intellij.ws.xml.jaxb.GenerateJAXBSchemasFromJavaDialog/0.0.1366.728@0.0.1366.728" timestamp="1585689099803" />
+    <state x="410" y="79" key="DetectedRootsChooserDialog" timestamp="1585692625850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="79" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585692625850" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1588156930026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588156930026" />
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1588764758740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588764758740" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1588764758739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588764758739" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1588764758739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588764758739" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1588764758740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588764758740" />
+    <state width="1323" height="390" key="GridCell.Tab.1.bottom" timestamp="1588163556367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588163556367" />
+    <state width="1323" height="390" key="GridCell.Tab.1.center" timestamp="1588163556367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588163556367" />
+    <state width="1323" height="390" key="GridCell.Tab.1.left" timestamp="1588163556367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588163556367" />
+    <state width="1323" height="390" key="GridCell.Tab.1.right" timestamp="1588163556367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588163556367" />
+    <state x="136" y="0" key="SettingsEditor" timestamp="1588156604507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588156604507" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588150086262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588150086262" />
+    <state x="438" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588156643004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1588156643004" />
+    <state x="602" y="125" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588113436142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="602" y="125" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1588113436142" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585692087119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585692087119" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/smelova/bookshop/ParameterizedTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

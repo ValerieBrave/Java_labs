@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.stream-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javax.xml.stream-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
