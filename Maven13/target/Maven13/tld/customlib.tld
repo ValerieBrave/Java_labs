@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+    <tlib-version>1.0</tlib-version>
+    <short-name>custom</short-name>
+    <tag>
+        <name>svvLabledTextField</name>
+        <tag-class>tags.svvLabledTextField</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>label</name>
+            <required>true</required>
+        </attribute>
+        <attribute>
+            <name>parname</name>
+            <required>true</required>
+        </attribute>
+    </tag>
+    <tag>
+        <name>svvSubmit</name>
+        <tag-class>tags.svvSubmit</tag-class>
+        <body-content>empty</body-content>
+
+    </tag>
+    <tag>
+        <name>svvTable</name>
+        <tag-class>tags.svvTable</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>rows</name>
+            <required>true</required>
+        </attribute>
+
+    </tag>
+</taglib>

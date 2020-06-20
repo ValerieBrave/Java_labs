@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <filter>
+        <filter-name>WelcomeFilter</filter-name>
+        <filter-class>filters.WelcomeFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>WelcomeFilter</filter-name>
+        <url-pattern>/views/welcome.jsp</url-pattern>
+    </filter-mapping>
+
+    <servlet>
+        <servlet-name>WelcomeServletName</servlet-name>
+        <servlet-class>servlets.WelcomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>WelcomeServletName</servlet-name>
+        <url-pattern>/welcomeservlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UserServletName</servlet-name>
+        <servlet-class>servlets.UserServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserServletName</servlet-name>
+        <url-pattern>/userservlet</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>ControllerName</servlet-name>
+        <servlet-class>controller.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ControllerName</servlet-name>
+        <url-pattern>/controller</url-pattern>
+    </servlet-mapping>
+</web-app>
